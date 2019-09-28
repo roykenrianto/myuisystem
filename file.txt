@@ -1,3 +1,3 @@
-versi_app;6
-url_web;https://download2263.mediafire.com/92n9wgbynlug/t22gx0126i2r8rc/UI-TW4-v.6.zip
+versi_app;7
+url_web;https://download2265.mediafire.com/lpywxuowl7qg/h4h656dp3887muc/UI-TW4-v.7.zip
 ukuran;8.6mb
